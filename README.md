@@ -45,6 +45,15 @@ The **Housing Map** project is designed to help real estate businesses streamlin
 - **Salesforce Integration** 🔗: Automate tasks like property deal approvals, tracking, and notifications.
 
 ---
+### Images
+- **Map View**:
+  ![Map View](images/Map.png)
+
+- **Satellite View**:
+  ![Satellite View](images/Satellite.png)
+
+
+---
 
 ## Installation 💻
 To get started with the **Housing Map** project locally, follow these steps:
@@ -74,13 +83,6 @@ After the setup:
 1. You can launch the **Housing Map** UI from Salesforce.
 2. Use the map view to browse available housing properties.
 3. The dynamic map adjusts based on property data stored in Salesforce.
-
-### Images
-- **Map View**:
-  ![Map View](images/Map.png)
-
-- **Satellite View**:
-  ![Satellite View](images/Satellite.png)
 
 ---
 
